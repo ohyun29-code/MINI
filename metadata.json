@@ -1,0 +1,6 @@
+{
+  "name": "급식실 요리 조합",
+  "description": "재료를 냄비에 섞어 다양한 요리를 만들고 실제 음식 사진과 도감을 수집하는 요리 조합 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
